@@ -1,0 +1,40 @@
+12 6 3 2 4 9 7 10 45 13 
+2 3 4 6 7 9 10 12 13 45 
+4 was found in the Binary Search Tree.
+2 3 7 10 9 6 13 45 12 
+The Root of the Tree is 12
+The Maximum value is 45
+The Minimum value is 2
+The size of the Binary Search Tree is 9
+The height of the Binary Search Tree is 3
+
+55 18 3 6 9 78 
+3 6 9 18 55 78 
+13 was not found in the Binary Search Tree.
+9 6 3 18 66 78 55 
+The Root of the Tree is 55
+The Maximum value is 78
+The Minimum value is 3
+The size of the Binary Search Tree is 7
+The height of the Binary Search Tree is 4
+
+808 707 505 499 644 909 1001 1200 1190 1592 
+499 505 644 707 808 909 1001 1190 1200 1592 
+707 was found in the Binary Search Tree.
+78 499 644 505 1190 1592 1200 1001 909 808 
+The Root of the Tree is 808
+The Maximum value is 1592
+The Minimum value is 78
+The size of the Binary Search Tree is 10
+The height of the Binary Search Tree is 4
+
+5 4 3 2 1 6 7 8 9 
+1 2 3 4 5 6 7 8 9 
+3 was found in the Binary Search Tree.
+1 2 4 10 9 8 7 6 5 
+The Root of the Tree is 5
+The Maximum value is 10
+The Minimum value is 1
+The size of the Binary Search Tree is 9
+The height of the Binary Search Tree is 5
+

@@ -1,4 +1,4 @@
-# Advanced_C_PlusPlus_Projects_2016
+# Data Abstraction and Structures in C++ De Anza 2016
 These are Labs and projects I worked on while at De Anza college in 2016. The course was Data Abstraction and Structures in C++ (3rd C++ course).
 
 **Lab 5 Using Lists, and CodeBlocks compiler:**
